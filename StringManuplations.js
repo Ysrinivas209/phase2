@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 const firstName = 'Abhishek';
 const lastName = 'Sharma';
 const greetings = "Hello ,"+firstName+" "+lastName+" How are you?";
