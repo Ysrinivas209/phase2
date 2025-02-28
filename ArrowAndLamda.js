@@ -1,3 +1,6 @@
+//Arrow functions were introduced in ES6.
+
+//Arrow functions allow us to write shorter function syntax:
 let squareOfNumber = function(value)
 {
 return value* value;
@@ -26,7 +29,7 @@ array = [1,2,3,4,55,6,777];
 for (let index = 0; index < array.length; index++) {
     console.log(array[index]);
     
-}
+     }
 
 };
 Complexfunction();
